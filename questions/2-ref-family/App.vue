@@ -43,6 +43,8 @@ const state = reactive({
 })
 
 // const fooRef = ref(state.foo) // 使用 ref 不通过测试（not working）
+// explain：https://vuejs.org/api/reactivity-utilities.html#toref
+// The above ref is not synced with state.foo, because the ref() receives a plain number value.
 const fooRef = toRef(state, 'foo') // change the impl...
 
 // mutating the ref updates the original
