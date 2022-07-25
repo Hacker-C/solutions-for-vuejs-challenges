@@ -1,6 +1,10 @@
+## Solutions to vuejs-challenges
 My solutions for Vuejs-Chanllenges from [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) .
 
-How to use
+## How to use
+
+### Install
+
 1. Clone the projects and run `pnpm install`
     ```bash
     git clone git@github.com:Hacker-C/vuejs-challenges.git
@@ -8,7 +12,12 @@ How to use
     pnpm install
     ```
 2. For every question, such as `1-hello-world`，copy `App.vue` and `index.test.ts` from [here](https://github.com/webfansplz/vuejs-challenges/tree/main/questions)，then paste to the local folder `questions`.
-3. Run the script `pnpm test`，then you can see if your answer passes the test.
+
+### Test your answers
+
+There are to ways to test your answers.
+
+1. Run the script `pnpm test`，then you can see if your answer passes the test.
     ```bash
     pnpm test
     ✓ questions/1-hello-word/index.test.ts (1)
@@ -19,6 +28,11 @@ How to use
     PASS  Waiting for file changes...
     press h to show help, press q to quit
     ```
-4. That's all, have fun!
+
+2. Run `pnpm test:ui`，and click the link to see if you answers get passed with visualization.
+
+Also, you can run `pnpm dev` to see if the page works properly.(Remember to change the path of the App in main.ts)
+
+That's all, have fun!
 
 
