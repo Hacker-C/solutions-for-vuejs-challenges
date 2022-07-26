@@ -1,6 +1,8 @@
 ## Solutions to vuejs-challenges
 My solutions for Vuejs-Chanllenges from [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) .
 
+> This repo includes explanations and correct answers for the chanllenges, give you a better experience to finish the questions.
+
 ## How to use
 
 ### Install
