@@ -2,6 +2,7 @@
 import { ref, computed } from 'vue'
 
 const count = ref(1)
+// vue docs: https://vuejs.org/guide/essentials/computed.html#writable-computed
 // 计算属性默认只提供了 getter，但也可以手动设置 setter。
 // 需要注意，只要其中一个显式设置了，getter 和 setter 需要同时设置
 const plusOne = computed({
