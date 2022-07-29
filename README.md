@@ -1,6 +1,6 @@
-<center>
-English | <a src="https://github.com/Hacker-C/solutions-for-vuejs-challenges/blob/main/README.zh-CN.md">中文</a>
-</center>
+<p align='center'>
+English | <a href='./README.zh-CN.md'>中文</a>
+</p>
 
 ## Solutions to vuejs-challenges
 My solutions for Vuejs-Chanllenges from [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) .

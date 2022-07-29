@@ -1,6 +1,6 @@
-<center>
-  <a src="https://github.com/Hacker-C/solutions-for-vuejs-challenges/blob/main/README.md">English</a> | 中文
-</center>
+<p align='center'>
+<a href='./README.md'>English</a> | 中文
+</p>
 
 ## Solutions to vuejs-challenges
 这里是我在学习 [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) 时的题解。
