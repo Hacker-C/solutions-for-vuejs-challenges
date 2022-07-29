@@ -33,6 +33,8 @@ There are to ways to test your answers.
 
 2. Run `pnpm test:ui`，and click the link to see if you answers get passed with visualization.
 
+3. (**Recommend**) When you want to test just one case, such as the `243-prevent-event-propagation`，you can run `pnpm test 243` to only test it.
+
 Also, you can run `pnpm dev` to see if the page works properly.(Remember to change the path of the App in main.ts)
 
 That's all, have fun!
