@@ -3,7 +3,7 @@ English | <a href='./README.zh-CN.md'>中文</a>
 </p>
 
 ## Solutions to vuejs-challenges
-My solutions for Vuejs-Chanllenges from [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) .
+My solutions and explanations for Vuejs-Chanllenges from [vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) .
 
 > This repo includes explanations and correct answers for the chanllenges, give you a better experience to finish the questions.
 
